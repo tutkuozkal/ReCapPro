@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReCapPro", "ReCapPro.csproj", "{522CAB02-FFCD-466A-A14A-D9D004B5B16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522CAB02-FFCD-466A-A14A-D9D004B5B16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522CAB02-FFCD-466A-A14A-D9D004B5B16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522CAB02-FFCD-466A-A14A-D9D004B5B16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522CAB02-FFCD-466A-A14A-D9D004B5B16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574BE511-F5CB-4714-8E38-B30A7E52AB73}
+	EndGlobalSection
+EndGlobal
